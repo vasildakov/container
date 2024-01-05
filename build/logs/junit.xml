@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="3" assertions="4" errors="0" warnings="0" failures="0" skipped="0" time="0.013589">
+    <testsuite name="Container" tests="3" assertions="4" errors="0" warnings="0" failures="0" skipped="0" time="0.013589">
+      <testsuite name="VasilDakov\ContainerTests\ContainerTest" file="/Users/vasdakov/Dev/vasildakov/container/tests/ContainerTest.php" tests="3" assertions="4" errors="0" warnings="0" failures="0" skipped="0" time="0.013589">
+        <testcase name="itCanBeCreated" class="VasilDakov\ContainerTests\ContainerTest" classname="VasilDakov.ContainerTests.ContainerTest" file="/Users/vasdakov/Dev/vasildakov/container/tests/ContainerTest.php" line="17" assertions="1" time="0.012570"/>
+        <testcase name="itCanAddCallables" class="VasilDakov\ContainerTests\ContainerTest" classname="VasilDakov.ContainerTests.ContainerTest" file="/Users/vasdakov/Dev/vasildakov/container/tests/ContainerTest.php" line="27" assertions="1" time="0.000617"/>
+        <testcase name="itCanAddFactories" class="VasilDakov\ContainerTests\ContainerTest" classname="VasilDakov.ContainerTests.ContainerTest" file="/Users/vasdakov/Dev/vasildakov/container/tests/ContainerTest.php" line="51" assertions="2" time="0.000403"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
